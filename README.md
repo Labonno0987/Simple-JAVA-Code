@@ -25,13 +25,13 @@ Before running the tests, ensure you have:
       - For Problem 2, navigate to FindCGPA.java, and so on for each of the 15 problems.
 ## Project Structure
 Simple-JAVA-Code/
-├── src/
-│   ├── CheckBinary.java
-│   ├── ExtractTransactionId.java
-│   └── ...
-├── .gitignore
-├── README.md
-└── (Excluded: .idea/, build/, .gradle/, out/)
+- ├── src/
+- │   ├── CheckBinary.java
+- │   ├── ExtractTransactionId.java
+- │   └── ...
+- ├── .gitignore
+- ├── README.md
+- └── (Excluded: .idea/, build/, .gradle/, out/)
 
 
 ## Task Checklist
@@ -44,7 +44,7 @@ Simple-JAVA-Code/
 ## Google Doc File (Code & Output)
 
 - [Click here to view the doc](https://docs.google.com/document/d/1nM8zIVSq1jk4GM2FzRy8OQUH7jSrzfAplWXGAyCfc-Q/edit?usp=drive_link)  
-*(Make sure the document is public or viewable by anyone with the link)*
+
 
 
 
